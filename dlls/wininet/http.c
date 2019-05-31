@@ -35,13 +35,13 @@
 #  include <zlib.h>
 #endif
 
-#include "winsock2.h"
-#include "ws2ipdef.h"
-
 #include <stdarg.h>
 #include <stdio.h>
 #include <time.h>
 #include <assert.h>
+
+#include "winsock2.h"
+#include "ws2ipdef.h"
 
 #include "windef.h"
 #include "winbase.h"
